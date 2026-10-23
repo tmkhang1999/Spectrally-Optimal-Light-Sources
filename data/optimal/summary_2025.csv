@@ -1,0 +1,7 @@
+task,metric,objective,d65_value,optimal_value
+DeltaE_min,delta_e,min,31.819739,7.511994
+DeltaE_max,delta_e,max,31.819739,57.705693
+DeltaRGB_min,delta_rgb,min,0.299086,0.198819
+DeltaRGB_max,delta_rgb,max,0.299086,0.744983
+Contrast_min,michelson,min,0.049380,0.039796
+Contrast_max,michelson,max,0.049380,0.112392
